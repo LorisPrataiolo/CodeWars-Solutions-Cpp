@@ -1,6 +1,6 @@
  
 // personal solution
- #include <string>
+#include <string>
 
 std::string DNAStrand(const std::string& dna)
 {
@@ -22,7 +22,8 @@ std::string DNAStrand(const std::string& dna)
     }
   }
   
-  return sol
+  return sol ;
+}
  
  
  // optimal solution
