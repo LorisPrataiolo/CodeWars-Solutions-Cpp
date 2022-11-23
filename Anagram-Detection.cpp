@@ -1,5 +1,4 @@
 #include <string>
-#include <algorithm>
 
 
 bool isAnagram(std::string test, std::string original){
