@@ -57,3 +57,6 @@ struct romandata_t { int value; char const* numeral; };
     }
   }
   return result;
+}
+// I believe that my previous version with the same logic,
+// but which differs from this one due to the use of a map, is computationally "heavier" and therefore my solution is not accepted
